@@ -3,6 +3,12 @@ artifacts_root: artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_URL: https://github.com/entbappy/Branching-tutorial/raw/master/winequality-data.zip
+  source_URL: https://github.com/Dhanyabahadur/End-to-End-ML-Project/raw/7a08248319ec50121aa00cd6fac680744a09c334/wineQT.zip
   local_data_file: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion
+
+
+# https://github.com/Dhanyabahadur/End-to-End-ML-Project/blob/main/wineQT.zip
+# permalink - https://github.com/Dhanyabahadur/End-to-End-ML-Project/blob/7a08248319ec50121aa00cd6fac680744a09c334/wineQT.zip
+# bappy - https://github.com/entbappy/Branching-tutorial/raw/master/winequality-data.zip
+# https://github.com/Dhanyabahadur/End-to-End-ML-Project/raw/7a08248319ec50121aa00cd6fac680744a09c334/wineQT.zip
