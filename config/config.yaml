@@ -8,6 +8,13 @@ data_ingestion:
   unzip_dir: artifacts/data_ingestion
 
 
+
+data_validation:
+  root_dir: artifacts/data_validation
+  unzip_data_dir: artifacts/data_ingestion/WineQT.csv
+  STATUS_FILE: artifacts/data_validation/status.txt
+   
+
 # https://github.com/Dhanyabahadur/End-to-End-ML-Project/blob/main/wineQT.zip
 # permalink - https://github.com/Dhanyabahadur/End-to-End-ML-Project/blob/7a08248319ec50121aa00cd6fac680744a09c334/wineQT.zip
 # bappy - https://github.com/entbappy/Branching-tutorial/raw/master/winequality-data.zip
