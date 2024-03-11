@@ -1,5 +1,7 @@
 # End-to-End-ML-Project
 
+## Demo
+[![E2E ML Project Demo](https://img.youtube.com/vi/92Ay2KZyUrI&t=6s/0.jpg)](https://www.youtube.com/watch?v=92Ay2KZyUrI&t=6s)
 
 ```bash
 conda create -n mlproj python=3.8 -y
